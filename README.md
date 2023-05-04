@@ -1,6 +1,6 @@
 ### Hi there 
 - I am U Kishore👋
-- I’m currently learning MBA ( Business Analytics ) along with a certificate course on data analytics 🌱
+- I’m currently learning MBA ( Business Analytics ) along with a certificate course on data science and analytics 🌱
 - You can reach me on 
 
     [Linkedin](https://www.linkedin.com/in/kishore330033/)
