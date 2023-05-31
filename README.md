@@ -1,8 +1,9 @@
 ### Hi there 
 - I am U Kishore👋
 - I’m currently learning MBA ( Business Analytics ) along with a certificate course on data science and analytics 🌱
-- You can reach me on 
 
+  [Glance about my me and my works](https://linktr.ee/ukishore33)
+<!--
     [Linkedin](https://www.linkedin.com/in/kishore330033/)
 
     [Github](https://github.com/ukishore33)
@@ -13,7 +14,7 @@
     
 - I worked on the projects recently on
     
-<!--
+
 **ukishore33/ukishore33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
