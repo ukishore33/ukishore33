@@ -4,8 +4,7 @@
 
   [Glance about me and my works](https://linktr.ee/ukishore33)
 
-  [![Build Status](https://travis-ci.com/your-username/your-repository.svg?branch=main)](https://travis-ci.com/your-username/your-repository)
-
+  ![Build Status](https://travis-ci.com/your-username/your-repository.svg?branch=main)
 <!--
     [Linkedin](https://www.linkedin.com/in/kishore330033/)
 
