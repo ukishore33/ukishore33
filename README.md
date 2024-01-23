@@ -1,6 +1,6 @@
 ### Hi There !
 - I am U Kishore👋
-- I’m currently learning MBA ( Business Analytics ) along with Some certificate courses related to data science and analytics 🌱
+- I’m currently learning MBA ( Business Analytics ) in Manipal University along with Some certificate courses related to data science and analytics through Coursera, Google Cloud Skill Network and some other portals 🌱
 
   [Glance about me and my works](https://linktr.ee/ukishore33)
 
