@@ -33,7 +33,7 @@
 ## Generative AI Projects:
 
 # 📫 Publications:
-[![Audit Analyst](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/kishore_pillai_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ukishore33/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kishore_pillai_) 
+[![D-Tale](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/kishore_pillai_) [![Research](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ukishore33/) [![Management](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Management&logoColor=white)](https://instagram.com/https://instagram.com/kishore_pillai_) 
 
 # 💫 Letter of Recommendation:
 [![Audit Analyst](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/kishore_pillai_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ukishore33/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kishore_pillai_) 
