@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on violavizn technologies. <br>i'm looking to collaborate on projects related to combination of Finance, Management, Data Science and  Generative AI related topics. <br>I'm currently learning Stock market Analysis and Generative AI. <br>Ask me about Finance, Management, Data Science and  Generative AI related topics. <br>Fun Fact : Everything I learnt in past Repeatedly Arrives as Dejavu for me. I can see this quote more often for me - ' History Repeats again always '
+i'm currently working on violavizn technologies. <br>i'm looking to collaborate on projects related to combination of Finance, Management, Data Science and  Generative AI related topics. <br>I'm currently learning Stock market Analysis and Generative AI. <br>Ask me about Finance, Management, Data Science and  Generative AI related topics. <br>Fun Fact : Everything I learnt in past Repeatedly Arrives as Dejavu for me. I can see this quote more often in my Life - ' History Repeats again always '
 
 
 ## 🌐 Socials:
