@@ -62,12 +62,12 @@ Python related Advanced Projects [![YouTube](https://img.shields.io/badge/docume
  
 Performing Basic Calculations --> Python  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Performing-Descriptive-Statistics/blob/main/README.md)
 
-## R Projects:
-<!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+<!--## R Projects:
+!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
   [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)-->
+ Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)--
 
 ## PySpark Projects:
 <!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
