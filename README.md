@@ -129,6 +129,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ukishore33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<!-- # Snake Animation -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ukishore33/ukishore33/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
