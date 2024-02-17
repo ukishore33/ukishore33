@@ -44,6 +44,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ukishore33&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukishore33&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Github Activiy -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ukishore33&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ukishore33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -62,8 +65,6 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ukishore33) 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ukishore33&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
