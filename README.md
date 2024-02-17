@@ -27,18 +27,20 @@ Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shield
 Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
 
 # 🌱 Study( Academic ):
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
 # 💬 Courses( Non - Academic ):
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ Coursera Certications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+
+ Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
 # 💫 Projects:
 ## EDA Projects:
@@ -106,18 +108,16 @@ Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/d
 
 
 # 📫 Publications:
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Comparison of D - Tale Library with other Automated Libraries [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
 # 💫 Letter of Recommendation:
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
  
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+
+Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
 
 # 📊 GitHub Stats:
