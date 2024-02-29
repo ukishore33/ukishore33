@@ -44,8 +44,10 @@ Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badg
  IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
  
  Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
+
+ Illinios Business Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
  
- Coursera Certications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
+ Coursera Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
 
  Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Microsoft/microsoft.md)
 
