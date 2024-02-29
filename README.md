@@ -32,20 +32,22 @@ Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shield
 Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
 
 # 🌱 Study( Academic ):
-Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/MAHE/mahe.md)
  
-Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/os.md)
  
-Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/B.Com/b.com.md)
 
 # 💬 Courses( Non - Academic ):
- IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ MSc Data Science ( Non Certificated Programme ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
  
- Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
  
- Coursera Certications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
+ 
+ Coursera Certications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
 
- Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
+ Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Microsoft/microsoft.md)
 
 # 💫 Projects:
 
