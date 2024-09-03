@@ -2,7 +2,7 @@
 🔭 i'm currently working on violavizn technologies. <br>👯 i'm looking to collaborate on projects related to combination of Finance, Management, Data Science and  Generative AI related topics. <br>🌱 I'm currently learning Stock market Analysis and Generative AI. <br>💬 Ask me about Finance, Management, Data Science and  Generative AI related topics. <!--<br>⚡ Fun Fact : Everything I learnt in past Repeatedly Arrives as Dejavu for me. I can see this quote more often in my Life - ' History Repeats again always '-->
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore330033/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ukishore33/) [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ukishore8133) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/kishore_pillai_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishore_pillai_)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ukishore33) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ukishore33?hr_r=1)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ukishore33/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/U-Kishore-4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ukishore33) 
 
@@ -14,6 +14,14 @@
 Violavizn Technologies( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
  
 Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
+
+# 🔭 Job Simulations:
+
+Accenture ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
+
+Pwc ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
+
+Tata ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
 
 # 🌱 Internships:
 Forage Internships ( Data Scientist Virtual Internships ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/forage/forage.md)
