@@ -10,69 +10,65 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 🔭 Experience:
-
-Violavizn Technologies( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
+Violavizn Technologies( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Work/Violavizn/violavizn.md)
  
-Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
+Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
 
-# 🔭 Job Simulations:
-
-Accenture ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
-
-Pwc ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
-
-Tata ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
-
+# 🌱 Virtual Job Simulations:
+Tata ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/Job%20Simulations/forage.md)
+ 
+Accenture ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/Job%20Simulations/Accenture/index.md)
+ 
+Pwc ( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/Job%20Simulations/Pwc/index.md)
+ 
 # 🌱 Internships:
-Forage Internships ( Data Scientist Virtual Internships ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/forage/forage.md)
+Forage Internships ( Data Scientist Virtual Internships ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/Job%20Simulations/forage.md)
  
-Bharath Intern ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Bharath%20intern/bi.md)
+Bharath Intern ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Internship/Bharath%20intern/bi.md)
  
-Sparks Foundation ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Spark%20Foundation/sf.md)
+Sparks Foundation ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Internship/Spark%20Foundation/sf.md)
  
-Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/tech.md)
+Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Internship/Technocolabs/tech.md)
 
-Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
+Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Internship/Medtoureasy/mte.md)
 
 # 🌱 Study( Academic ):
-Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/MAHE/mahe.md)
+Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Academic/MAHE/mahe.md)
  
-Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/os.md)
+Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Academic/Odin%20Schools/os.md)
  
-Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/B.Com/b.com.md)
+Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Academic/B.Com/b.com.md)
 
 # 💬 Courses( Non - Academic ):
- MSc Data Science ( Non Certificated Programme ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
+ MSc Data Science ( Non Certificated Programme ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
  
- IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
+ IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/IBM/ibm.md)
  
- Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
+ Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/Google/google.md)
 
- Illinios Business Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
+ Illinios Business Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/illinios/illinios.md)
  
- Coursera Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
+ Coursera Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/Coursera/coursera.md)
 
- Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Microsoft/microsoft.md)
+ Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Non%20-%20Academic/Microsoft/microsoft.md)
 
 # 💫 Projects:
-
 ## Highlights:
 NASA Dataset - Advanced Capstone Project --> EDA ( Tableau ) + ML ( Classisfication Model )  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
-[For more detailed description of projects](https://github.com/ukishore33/Portfolio/blob/main/projects.md)
+[For more detailed description of projects](https://github.com/ukishore33/Portfolio/blob/main/about/projects.md)
 
 # 📫 Publications:
-Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Publications/readme.md)
+Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Publications/readme.md)
  
 Comparison of D - Tale Library with other Automated Libraries [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://aitechspaces.com/python/data-frame-eda-packages-comparison-dtale/)
 
 # 💫 Letter of Recommendation:
-Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
+Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/LOR/Readme.md)
  
-MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
+MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/LOR/Readme.md)
 
-Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
-
+Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Portfolio/blob/86b177efa0ee137808f85a438da4bdd04c7a5bff/about/LOR/Readme.md)
 
 <!--## Projects working on ( Presently ):
   [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
