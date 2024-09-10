@@ -56,7 +56,7 @@ Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badg
 ## Highlights:
 NASA Dataset - Advanced Capstone Project --> EDA ( Tableau ) + ML ( Classisfication Model )  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
 
-[For more detailed description of projects](https://github.com/ukishore33/Portfolio/blob/main/about/projects.md)
+[For more detailed description of projects](https://github.com/ukishore33/Portfolio/blob/main/projects.md)
 
 # 📫 Publications:
 Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/about/Publications/readme.md)
