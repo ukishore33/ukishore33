@@ -13,7 +13,7 @@
 #### 💫 Projects:
 
 #### Highlights:
-[NASA Dataset - Advanced Capstone Project --> EDA ( Tableau ) + ML ( Classisfication Model )](https://platform.openai.com/docs/introduction)
+[NASA Dataset - Advanced Capstone Project  EDA ( Tableau ) + ML ( Classisfication Model )](https://platform.openai.com/docs/introduction)
 
 #### Statistical Projects:
 [Analyse Death Age Difference of Left Handlers vs Right Handlers --> Python](https://github.com/ukishore33/Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers/blob/main/README.md)
@@ -26,12 +26,12 @@
 [Performing Basic Calculations --> Python ](https://github.com/ukishore33/Performing-Descriptive-Statistics/blob/main/README.md)
 
 ## R Projects:
-!--  [](https://platform.openai.com/docs/introduction)
+[](https://platform.openai.com/docs/introduction)
  
   [](https://platform.openai.com/docs/introduction)
  
 ## PySpark Projects:
-<!--  [](https://platform.openai.com/docs/introduction)
+  [](https://platform.openai.com/docs/introduction)
  
   [](https://platform.openai.com/docs/introduction)
  
