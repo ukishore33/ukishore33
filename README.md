@@ -15,14 +15,14 @@
 
 | # | Project | Key Metric | Target Role |
 |---|---------|-----------|-------------|
-| P1 | [AML Transaction Monitoring Dashboard](https://github.com/ukishore33/AML-Transaction-Monitoring-Dashboard) | ROC-AUC 1.00 · 324 alerts · ₹6.15Cr | AML/KYC |
-| P2 | [KYB Entity Risk Scoring Engine](https://github.com/ukishore33/KYC-KYB-Entity-Risk-Scoring-Engine) | CV-AUC 1.00 · 205 high-risk · 0 FN | AML/KYC · BA |
-| P3 | [Sanctions & PEP Screening Tool](https://github.com/ukishore33/sanctions-pep-screener) | Recall 100% · F1 98.6% · 0 missed | AML/KYC · Fraud |
-| P4 | [Financial Crime / Fraud Detection ML](https://github.com/ukishore33/fincrime-ml-model) | PR-AUC 1.00 · 0 false negatives | Fraud Risk |
-| P5 | [Loan Default Prediction — Credit Scorecard](https://github.com/ukishore33/Loan-Default-Credit-Risk) | Gini 0.521 · KS 0.395 · AUC 0.761 | Credit Risk · Quant |
-| P6 | [Financial KPI Dashboard — NBFC](https://github.com/ukishore33/Financial-KPI-Dashboard) | 8 KPIs · AUM/NPA/NIM/PAR/PCR · SQL | Data Analyst |
-| P7 | [BA Case Study — KYB Onboarding Automation](https://github.com/ukishore33/kyb-onboarding-ba-case-study) | TAT 5d→1d · ₹6.65L/month saved | BA Finance · Ops |
-| P8 | [FinRisk MLOps Pipeline](https://github.com/ukishore33/FinRisk-MLOps-Pipeline-End-to-End-Model-Lifecycle-for-Credit-Risk) | FastAPI · Docker · MLflow · GCP | MLOps Engineer |
+| P5 | [Loan Default Prediction — Credit Scorecard](https://ukishore33.github.io/Loan-Default-Credit-Risk/credit_risk_dashboard.html) | Gini 0.521 · KS 0.395 · AUC 0.761 | Credit Risk · Quant |
+| P6 | [Financial KPI Dashboard — NBFC](https://ukishore33.github.io/Financial-KPI-Dashboard/financial_kpi_dashboard.html) | 8 KPIs · AUM/NPA/NIM/PAR/PCR · SQL | Data Analyst |
+| P4 | [Financial Crime / Fraud Detection ML](https://ukishore33.github.io/fincrime-ml-model/fincrime_dashboard.html) | PR-AUC 1.00 · 0 false negatives | Fraud Risk |
+| P8 | [FinRisk MLOps Pipeline](https://ukishore33.github.io/FinRisk-MLOps-Pipeline-End-to-End-Model-Lifecycle-for-Credit-Risk/Readme.md) | FastAPI · Docker · MLflow · GCP | MLOps Engineer |
+| P1 | [AML Transaction Monitoring Dashboard](https://ukishore33.github.io/AML-Transaction-Monitoring-Dashboard/aml_dashboard.html) | ROC-AUC 1.00 · 324 alerts · ₹6.15Cr | AML/KYC |
+| P2 | [KYB Entity Risk Scoring Engine](https://ukishore33.github.io/KYC-KYB-Entity-Risk-Scoring-Engine/) | CV-AUC 1.00 · 205 high-risk · 0 FN | AML/KYC · BA |
+| P7 | [BA Case Study — KYB Onboarding Automation](https://ukishore33.github.io/kyb-onboarding-ba-case-study/kyb_process_dashboard.html) | TAT 5d→1d · ₹6.65L/month saved | BA Finance · Ops |
+| P3 | [Sanctions & PEP Screening Tool](https://ukishore33.github.io/sanctions-pep-screener/sanctions_dashboard.html) | Recall 100% · F1 98.6% · 0 missed | AML/KYC · Fraud |
 
 ---
 
