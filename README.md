@@ -21,7 +21,7 @@
 | P4 | [Financial Crime / Fraud Detection ML](https://github.com/ukishore33/fincrime-ml-model) | PR-AUC 1.00 · 0 false negatives | Fraud Risk |
 | P5 | [Loan Default Prediction — Credit Scorecard](https://github.com/ukishore33/Loan-Default-Credit-Risk) | Gini 0.521 · KS 0.395 · AUC 0.761 | Credit Risk · Quant |
 | P6 | [Financial KPI Dashboard — NBFC](https://github.com/ukishore33/Financial-KPI-Dashboard) | 8 KPIs · AUM/NPA/NIM/PAR/PCR · SQL | Data Analyst |
-| P7 | [BA Case Study — KYB Onboarding Automation](link) | TAT 5d→1d · ₹6.65L/month saved | BA Finance · Ops |
+| P7 | [BA Case Study — KYB Onboarding Automation](https://github.com/ukishore33/kyb-onboarding-ba-case-study) | TAT 5d→1d · ₹6.65L/month saved | BA Finance · Ops |
 | P8 | [FinRisk MLOps Pipeline](https://github.com/ukishore33/FinRisk-MLOps-Pipeline-End-to-End-Model-Lifecycle-for-Credit-Risk) | FastAPI · Docker · MLflow · GCP | MLOps Engineer |
 
 ---
