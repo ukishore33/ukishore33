@@ -3,7 +3,9 @@
 **AML/KYC Compliance Analyst | Financial Crime Analytics | Credit Risk | Fraud Detection | MLOps**
 
 📍 Bengaluru, Karnataka | 📱 6303308133 | ✅ Immediate Joiner  
-🔗 [LinkedIn](https://linkedin.com/in/kishore-techie) | 💼 Expected CTC: 5 LPA+
+🔗 [LinkedIn](https://linkedin.com/in/kishore-techie) 
+
+ <!--|💼 Expected CTC: 5 LPA+-->
 
 ---
 
